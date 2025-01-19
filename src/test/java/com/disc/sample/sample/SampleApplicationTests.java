@@ -1,4 +1,4 @@
-package com.discover.sample.sample;
+package com.disc.sample.sample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

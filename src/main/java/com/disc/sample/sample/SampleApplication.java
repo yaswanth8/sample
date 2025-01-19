@@ -1,4 +1,4 @@
-package com.discover.sample.sample;
+package com.disc.sample.sample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
